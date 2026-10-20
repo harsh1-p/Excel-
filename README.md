@@ -23,18 +23,17 @@ This repository contains my hands-on practice with Microsoft Excel and data anal
 - AVERAGE
 - SUBTOTAL
 - SUMPRODUCT
-
-**4. Lookup Formulas
+**4. Lookup Formulas**
 - VLOOKUP 
 - HLOOKUP 
 - LOOKUP 
 
-**5. Logical Formulas
+**5. Logical Formulas**
 - IF
 - IF with AND 
 - IF with OR 
 
-** 6. Text Formulas
+**6. Text Formulas**
 - LEFT 
 - MID
 - RIGHT
