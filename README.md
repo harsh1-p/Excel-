@@ -24,6 +24,23 @@ This repository contains my hands-on practice with Microsoft Excel and data anal
 - SUBTOTAL
 - SUMPRODUCT
 
+**4. Lookup Formulas
+- VLOOKUP 
+- HLOOKUP 
+- LOOKUP 
+
+**5. Logical Formulas
+- IF
+- IF with AND 
+- IF with OR 
+
+** 6. Text Formulas
+- LEFT 
+- MID
+- RIGHT
+- FIND 
+
+
 ### 🛠️ Tools Used
 - Microsoft Excel
 - Excel Formulas & Functions
