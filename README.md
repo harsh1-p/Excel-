@@ -23,6 +23,7 @@ This repository contains my hands-on practice with Microsoft Excel and data anal
 - AVERAGE
 - SUBTOTAL
 - SUMPRODUCT
+  
 **4. Lookup Formulas**
 - VLOOKUP 
 - HLOOKUP 
